@@ -21,7 +21,7 @@ Make sure Node.js is installed on your computer.
 
 Install it from [nodejs.org/download](http://nodejs.org/download)
 
-### Install `javascripting` with `npm`
+### Install `learnyounode` with `npm`
 
 Open your terminal and run this command:
 
